@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "We are a HostWie",
+    "paragraph": "Free offers and services you need to build, deploy, host, and manage websites and web apps in the cloud."
+  },
+  "About": {
+    "paragraph": " We are a web hosting provider on a mission to bring success to everyone who goes online. We do it by constantly improving server technology, providing professional support, and making the web hosting experience seamless. ",
+    "Why": [
+      "Free Domain hosting & Free SSL",
+      "Free Website Builder and other great features",
+      "Optimization",
+      "Affordability"
+    ],
+    "Why2": [
+      "Uptime & Speed",
+      "VPS Hosting",
+      "Exercitation ullamco",
+      "Cloud Hosting"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Pasteboard",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "File-Sharing",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Free photo hosting",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "ImgVision",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "PhotoBucket",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Imgur",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Flickr",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Free-Photo-Hosting",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "WordPress Hosting",
+      "text": "We provide server space for users to store and publish their site files.."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cloud Hosting",
+      "text": "We are a cloud hosting service provider for start up, professional, and enterprise users."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Website Builder",
+      "text": "We provide a platform in Building your own website in easier than you think. "
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "VPS Hosting",
+      "text": "Our fiber-connected infrastructure offers a 300 Mb/s network speed for VPS hosting clients, ensuring a higher uptime and faster loading speed. "
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Business Email",
+      "text": "We offer services to help create your own domain-based email addresses that resonate with your brand."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "AI Logo generator",
+      "text": "HostWie Logo Maker is all you need to create your dream logo. Get a business logo for your brand - no need to hire a designer."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"With HostWie I can manage the hosting, domain name, and SSL certificate in one place, which is really refreshing. And setting up a website was easy.\"",
+      "name": "Sulai Onilere"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\" Ever since we've been with HostWie, it's been amazing. We've not really had any issues at all and if we ever do have a question, their customer service is incredible..\"",
+      "name": "Jonathan Miker"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"When I looked at HostWie’s hPanel, I realized it was going to be the easiest to manage. Many developers may prefer other options, but for me personally, I like hPanel..\"",
+      "name": "Martins Ndifon"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"I have migrated to HostWie few months ago. I am extremely satisfied with the hosting, and with their support..\"",
+      "name": "Jenifer Oscar"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Migrated over a website and email from another provider. HostWie's UI is easy to use and the support was quick, friendly, and very helpful..\"",
+      "name": "John Mbey"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"HostWie proved itself a reliable web hosting service. In fact, our test site didn't go down once during the 14-day observation period..\"",
+      "name": "Blessing Essien"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Thales Solomon",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "James Nyah",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Peter",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Nancy Obi",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Calabar, Cross River State-Nigeria ",
+    "phone": "+234 706 730 0133",
+    "email": "thals4jesus@gmail.com",
+    "facebook": "facebook.com/Thales Solomon",
+    "twitter": "twitter.com/Thales Solomon",
+    "youtube": "youtube.com/Thales Solomon"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "EMAIL",
+      "text": "Yes, we offer free web hosting provider with email services."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Domain Names",
+      "text": "Register a new domain name or use one you already own. (Available after upgrading.)"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Analytics",
+      "text": "All sites come with analytics built-in. See who's been visiting with easy-to-read charts."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "HTTPS Built-in",
+      "text": "All wesbites get HTTPS automatically, for free! Enhanced security, SEO boost, and gain visitors' trust."
+    }
+  ]
+}
