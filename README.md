@@ -12,7 +12,7 @@ All 'visual' data can be easily modified by changing the data.json file.
 ### 2. CSS
 ### 3. JAVASCRIPT
 ### 4. BOOSTRAP CSS
-### REACT JS
+### 5. REACT JS
 
 ## Make it Yours!
 ### 1. Preps
