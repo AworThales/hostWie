@@ -4,8 +4,15 @@
 ### <a href="https://hostwie.vercel.app/">LIVE DEMO</a> 
 
 ## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. 
+This is a ALX Portfolio project, fit for a startup company/service with a one page view. 
 All 'visual' data can be easily modified by changing the data.json file.
+
+## Technology
+### 1. HTML
+### 2. CSS
+### 3. JAVASCRIPT
+### 4. BOOSTRAP CSS
+### REACT JS
 
 ## Make it Yours!
 ### 1. Preps
